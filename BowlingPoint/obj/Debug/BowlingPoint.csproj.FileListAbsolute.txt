@@ -1,0 +1,5 @@
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPoint\bin\Debug\BowlingPoint.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPoint\bin\Debug\BowlingPoint.pdb
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPoint\obj\Debug\BowlingPoint.csprojResolveAssemblyReference.cache
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPoint\obj\Debug\BowlingPoint.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPoint\obj\Debug\BowlingPoint.pdb

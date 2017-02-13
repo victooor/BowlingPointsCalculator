@@ -1,0 +1,12 @@
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\BowlingPointsApplication.exe.config
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\BowlingPointsApplication.exe
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\BowlingPointsApplication.pdb
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\BowlingPoint.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\log4net.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\BowlingPoint.pdb
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\log4net.xml
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\obj\Debug\BowlingPointsApplication.csprojResolveAssemblyReference.cache
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\obj\Debug\BowlingPointsApplication.exe
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointsConsumer\obj\Debug\BowlingPointsApplication.pdb

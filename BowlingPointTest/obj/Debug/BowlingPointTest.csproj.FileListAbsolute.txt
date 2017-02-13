@@ -1,0 +1,8 @@
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\bin\Debug\BowlingPointTest.dll.config
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\bin\Debug\BowlingPointTest.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\bin\Debug\BowlingPointTest.pdb
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\bin\Debug\BowlingPoint.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\bin\Debug\BowlingPoint.pdb
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\obj\Debug\BowlingPointTest.csprojResolveAssemblyReference.cache
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\obj\Debug\BowlingPointTest.dll
+C:\Users\victor\documents\visual studio 2012\Projects\BowlingPoint\BowlingPointTest\obj\Debug\BowlingPointTest.pdb
